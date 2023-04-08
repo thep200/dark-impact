@@ -19,5 +19,9 @@
       }
     ]
   },
-  "icon": "assets/images/dark-impact.png"
+  "icon": "assets/images/dark-impact.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thep200/dark-impact"
+  }
 }
