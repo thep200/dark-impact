@@ -1,6 +1,6 @@
 <!-- Header page -->
 <div align=center>
-    <img src="assets/logo/dark-impact.png" alt="dark-impact-logo" width="128px" height="128px" />
+    <img src="assets/logo/dark-impact-2.png" alt="dark-impact-logo" width="128px" height="128px" />
     <h1>The dark impact themes (beta)</h1>
     <p>🎉 Coding is just for fun and happy 🎉</p>
 </div>
@@ -12,6 +12,8 @@
 ![License](https://img.shields.io/github/license/thep200/dark-impact?color=%2322c55e)
 ![Watchers](https://img.shields.io/github/watchers/thep200/dark-impact?style=social)
 ![Forks](https://img.shields.io/github/forks/thep200/dark-impact?style=social)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/thep200.the-dark-impact?color=%23f97316)
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/thep200.the-dark-impact?color=%23f97316)
 
 <!-- Contents -->
 # The dark impact themes
