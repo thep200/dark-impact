@@ -1,14 +1,23 @@
 {
   "name": "the-dark-impact",
   "displayName": "Dark impact",
-  "description": "The dark impact themes made by Thep200",
+  "description": "This is a beta version of this theme. I will update it regularly. I look forward to receiving your feedback in the future.",
   "publisher": "Thep200",
+  "author": {
+    "name": "Thep200",
+    "email": "thep200.work@gmail.com"
+  },
   "version": "1.2.0",
   "engines": {
     "vscode": "^1.77.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "themes",
+    "dark",
+    "dark theme"
   ],
   "contributes": {
     "themes": [
