@@ -1,5 +1,16 @@
+<p align="center">
+    <img src="assets/logo/dark-impact.png" alt="Dark impact logo" width="128px" height="128px" />
+</p>
+<h3 align="center">The dark impact themes (beta)</h3>
+
+![License](https://img.shields.io/github/license/thep200/dark-impact?color=%2322c55e)
+
 # The dark impact themes
-Dark Impact is a dark theme for Visual Studio Code with vibrant and crisp colors, designed to help you focus on your code and enhance your working experience on this popular code editor.
+> Dark Impact is a dark theme for Visual Studio Code with vibrant and crisp colors, designed to help you focus on your code and enhance your working experience on this popular code editor.
+
+<p align="center">
+    <img src="assets/images/overview.png" alt="Dark impact logo"/>
+</p>
 
 ## Installation
 - Access the Visual Studio Code Marketplace homepage by clicking on the extensions icon on the left sidebar of the code editor.
