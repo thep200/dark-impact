@@ -1,6 +1,4 @@
-node_modules
-*.vsix
 .vscode
-example.json
-config.json
-assets/logo/logo-create.html
+node_modules
+assets/logo/logo-creator.html
+*.vsix

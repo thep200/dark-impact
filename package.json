@@ -1,7 +1,7 @@
 {
   "name": "the-dark-impact",
-  "displayName": "Dark impact",
-  "description": "This is a beta version of this theme. I will update it regularly. I look forward to receiving your feedback in the future.",
+  "displayName": "Dark impact theme",
+  "description": "Official The Dark Impact Theme. Dark theme for vscode with support glow syntax.",
   "publisher": "Thep200",
   "author": {
     "name": "Thep200",
@@ -22,9 +22,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark impact",
+        "label": "Dark impact default",
         "uiTheme": "vs-dark",
-        "path": "./themes/The dark impact-color-theme.json"
+        "path": "./themes/The-dark-impact-theme-default.json"
       }
     ]
   },

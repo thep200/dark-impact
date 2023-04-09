@@ -1,0 +1,111 @@
+/* ----------- The dark impact glow support ---------- */
+
+  /* Border selected file */
+  .monaco-list.settings-toc-tree .monaco-list-row.selected,
+  .monaco-list.settings-toc-tree .monaco-list-row.focused,
+  .monaco-list .monaco-list-row.selected,
+  .monaco-list.settings-toc-tree:not(.drop-target)
+  .monaco-list-row:hover:not(.selected):not(.focused) {
+    color: #FFFFF0;
+    border-radius: 2px;
+    border: 1px solid #1E90FF;
+  }
+
+  .button-link {
+    transition: 0.45s;
+  }
+
+  .button-link:hover {
+    margin-left: 20px !important;
+  }
+
+  /* Normal mode */
+  /* .mtk1 {
+    color: #FFFFF0;
+  } */
+
+  /* .mtk5 {
+    color: #59CE8F;
+  } */
+
+  /* = + - */
+  .mtk6 {
+    color: #FFFFF0;
+  }
+
+  /* , }, ) */
+  .mtk7 {
+    color: #FFFFF0;
+  }
+
+  /* .mtk8 {
+    color: #50C878;
+  } */
+
+  /* Function */
+  .mtk9 {
+    color: #FFFFF0;
+    text-shadow: 0 0 1px #6A5ACD,
+                 0 0 2px #483D8B,
+                 0 0 2px #483D8B,
+                 0 0 3px #483D8B,
+                 0 0 3px #483D8B,
+                 0 0 3px #483D8B,
+                 0 0 5px #483D8B,
+                 0 0 5px #483D8B,
+                 0 0 5px #483D8B,
+                 0 0 7px #483D8B,
+                 0 0 7px #483D8B;
+  }
+
+  /* Numbers */
+  .mtk10 {
+    color: #FFF;
+    text-shadow: 0 0 1px #FA8072,
+                 0 0 2px #FF5C5C,
+                 0 0 3px #FF5C5C,
+                 0 0 5px #FF5A5A,
+                 0 0 7px #FF5050;
+  }
+
+  .mtk11 {
+    color: #FFFFF0;
+  }
+
+  /* Css class name */
+  .mtk12 {
+    color: #50C878;
+  }
+
+  /* Css property */
+  .mtk13 {
+    color: #AFB4FF;
+  }
+
+  /* .mtk14 {
+    color: #FBC5C5;
+  } */
+
+  /* .mtk15 {
+    color: #AFB4FF;
+  } */
+
+  /* .mtk16 {
+    color: #00FF7F;
+  } */
+
+  /* .mtk17 {
+    color: #9C9EFE;
+  } */
+
+  /* .mtk18 {
+    color: #C8B6E2;
+  } */
+
+  /* .mtk20 {
+    font-style: italic;
+  } */
+
+  /* .mtk23 {
+    color: #FFFFF0;
+  } */
