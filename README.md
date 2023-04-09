@@ -19,9 +19,9 @@
 ---
 > The Dark Impact is a dark theme for Visual Studio Code with support glow syntax. The theme adds inspiration to your coding experience, highlighting your code snippets with a glowing style featuring shades of purple and white as the main colors.
 
-<p align="center">
-    <img src="assets/images/overview.png" alt="Dark impact logo"/>
-</p>
+<div align="center">
+    <img src="assets/images/glow-enable.png" alt="dark-impact-overview"/>
+</div>
 
 ---
 ## Features

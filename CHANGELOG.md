@@ -1,4 +1,9 @@
 # Change Log
+**v1.3.0**
+
+Update
+- Fix glow bug.
+
 **v1.2.1**
 
 Update
